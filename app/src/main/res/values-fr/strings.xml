@@ -97,7 +97,7 @@
     <string name="minute">"minute"</string>
     <string name="seconds">"secondes"</string>
     <string name="second">"seconde"</string>
-    <string name="no_events_to_display">"Aucune notification d'événement à afficher\nLes notifications actives et répétées apparaîtraient ici"</string>
+    <string name="no_events_to_display">"Aucune notification à afficher\nLes notifications d'événement actives et répétées apparaîtraient ici"</string>
     <string name="no_calendar_permissions_main">"L'application n'a pas la permission du calendrier"</string>
     <string name="view_after_edit">"Afficher après l'édition"</string>
     <string name="view_after_edit_summary">"Activer pour afficher automatiquement l'événement dans le calendrier après avoir changé l'heure de l'événement en utilisant la répétition"</string>
@@ -135,8 +135,8 @@
     <string name="wake_screen_summary">"Réveil l'écran pendant un court laps de temps lorsqu'une notification arrive"</string>
 
     <string name="error_cannot_parse_pattern">"Ne peut pas analyser ce modèle"</string>
-    <string name="quiet_time_from">"Tranquillité de"</string>
-    <string name="quiet_time_to">"Tranquillité pour"</string>
+    <string name="quiet_time_from">"Heure de début"</string>
+    <string name="quiet_time_to">"Heure de fin"</string>
     <string name="enable_quiet_time">"Activer la tranquillité"</string>
 
     <string name="reminders_section">"Rappels"</string>
@@ -344,7 +344,7 @@
     <string name="on_the_day_of_event">"Le jour de l'événement"</string>
     <string name="before_the_event">"Avant l'événement"</string>
     <string name="ignore_all_day_events">"Ignorer les événements de journée"</string>
-    <string name="ignore_all_day_events_summary">"Ne pas rappeler les événements de journée"</string>
+    <string name="ignore_all_day_events_summary">"Événements de toute la journée"</string>
 
     <string formatted="false" name="next_reminder_fmt">"Rappel suivant: %s"</string>
     <string name="darker_calendar_color">"Couleurs de calendrier plus sombres"</string>
